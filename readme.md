@@ -11,7 +11,7 @@ NRP: 06111840000077
 Input : -2 3 0
 
 Output :
-[SCREENSHOOT-1](https://user-images.githubusercontent.com/49528923/56495021-7d78be00-651e-11e9-8a7d-6562bd4aa9c1.png)
+![Screenshot (168)](https://user-images.githubusercontent.com/49528923/56495021-7d78be00-651e-11e9-8a7d-6562bd4aa9c1.png)
 ~~~~
 ~~~~
 Input :1 -2 1
