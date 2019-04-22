@@ -11,25 +11,25 @@ NRP: 06111840000077
 Input : -2 3 0
 
 Output :
-(https://user-images.githubusercontent.com/49528923/56495021-7d78be00-651e-11e9-8a7d-6562bd4aa9c1.png)
+[SCREENSHOOT-1](https://user-images.githubusercontent.com/49528923/56495021-7d78be00-651e-11e9-8a7d-6562bd4aa9c1.png)
 ~~~~
 ~~~~
 Input :1 -2 1
 
 Output :
-(https://user-images.githubusercontent.com/49528923/56495108-d0eb0c00-651e-11e9-8b59-6a24c103087f.png)
+[SCREENSHOOT-2](https://user-images.githubusercontent.com/49528923/56495108-d0eb0c00-651e-11e9-8b59-6a24c103087f.png)
 ~~~~
 ~~~~
 Input : -3 0 3
 
 Output :
-(https://user-images.githubusercontent.com/49528923/56495106-d0527580-651e-11e9-8854-30f2280949c8.png)
+[SCREENSHOOT-3](https://user-images.githubusercontent.com/49528923/56495106-d0527580-651e-11e9-8854-30f2280949c8.png)
 ~~~~
 ~~~~
 Input : 0 0 0
 
 Output :
-(https://user-images.githubusercontent.com/49528923/56495105-cf214880-651e-11e9-8913-e054fe4623f0.png)
+[SCREENSHOOT-4](https://user-images.githubusercontent.com/49528923/56495105-cf214880-651e-11e9-8913-e054fe4623f0.png)
 ~~~~
 
 [link ke laporan]
